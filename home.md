@@ -3,6 +3,15 @@
 Permits payments of orders if current User has access permissions to it. 
 Developed by Andres.
 
+> Email-style angle brackets are used for blockquotes.
+>> You can also nest them.
+>>
+> * You can quote a list.
+> * Etc.
+
+> To break the nested blockquote, add a space between lines.
+
+
 **URL** : `/api/payments/:pk/`
 
 **URL Parameters** : `pk=[integer]` where `pk` is the ID of the Ship on the
