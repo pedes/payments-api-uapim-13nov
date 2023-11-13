@@ -2,11 +2,11 @@
 projects:
   - main: payments-oas.yaml
     assetId: invoice-payment-system-api
-    version: 1.1.0
+    version: 1.0.0
     apiVersion: v1
     contact:
-      name: 'Andres Morales'
-      email: 'andres.email@flexcompany.com'
+      name: 'Sarah Connor'
+      email: 'sarah.connor@universalco.fake'
     tags:
       - logistics
       - commerce
