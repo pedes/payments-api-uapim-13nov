@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Invoice Flex Payment System API
+  title: Universal Flex Payment System API
   description: SAP S/4HANA System API for payments, based on **FINS Payments Web UI Experience API**
   version: v1.1
 paths:
